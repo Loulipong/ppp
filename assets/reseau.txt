@@ -1,0 +1,1 @@
+Le but du projet était de se mettre dans la peau d'un administrateur réseau afin de constituer, avec des contraintes précises, le réseau de la dite entreprise. Dans le cadre de ce projet, nous avons utilisé le simulateur MarionNet.

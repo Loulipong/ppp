@@ -1,0 +1,2 @@
+Le but du projet était d'exploiter une très grande base données (celle d'AirBNB) afin d'en extraire les données utiles et d'en faire des études statistiques. 
+La technologie utilisée est python et notemment la bibliothèque graphique MatPlotLib.

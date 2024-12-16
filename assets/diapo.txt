@@ -1,0 +1,1 @@
+Le but du projet était d'utiliser les bibliothèques graphiques de QT afin de réaliser un lecteur de diaporama d'images. La technologie utilisée est le C++, mais nous avons également utilisé SQL afin de récupérer les images depuis une BDD.
